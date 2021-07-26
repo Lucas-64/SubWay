@@ -14,18 +14,18 @@ function Footer(){
                 <Rodape>Perfil</Rodape>
                 <Link href="" passHref><LinksRodape>Entre em contato conosco</LinksRodape></Link>
                 </Links>
-                <a href="https://www.facebook.com/subwaybrasil/" target="_blank">
+                <Link href="" passHref>
                     <LogoSocial src="/images/facebook.svg" />
-                </a>
-                <a href="https://twitter.com/subwaybrasil" target="_blank">
+                </Link>
+                <Link href="" passHref>
                     <LogoSocial src="/images/twitter.svg" />
-                </a>
-                <a href="https://www.youtube.com/subwaybrasiloficial" target="_blank">
+                </Link>
+                <Link href="" passHref>
                     <LogoSocial src="/images/YouTube.svg" />
-                </a>
-                <a href="https://www.tiktok.com/@subway.brasil?lang=pt-BR" target="_blank">
+                    </Link>
+                <Link href="" passHref>
                     <LogoSocial src="/images/tiktok.svg" />
-                </a>
+                </Link>
                 <Links>
                 <Rodape>Jurídico</Rodape>
                 <Link href="" passHref><LinksRodape>Declarações de privacidade</LinksRodape></Link>
